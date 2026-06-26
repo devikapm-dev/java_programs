@@ -27,6 +27,11 @@ OOPs concepts implemented in Java from my BCA course.
 - Each child implements calculateArea() differently
 - Demonstrates hiding complexity
 
+### 6. Interface.java — Interface
+- Interface Vehicle with start(), stop() and fuel() methods
+- Car, Bike and ElectricCar implement Vehicle differently
+- Demonstrates full abstraction and multiple implementation
+- 
 ## How to compile and run
 javac filename.java
 java Main
