@@ -13,10 +13,19 @@ OOPs concepts implemented in Java from my BCA course.
 - Deposit and withdrawal with validation
 - Demonstrates data hiding
 
-## More coming soon
-- Inheritance
-- Polymorphism
-- Abstraction
+### 3. Inheritance.java — Inheritance
+- Parent class Animal with Dog and Cat as child classes
+- Child classes inherit methods from parent
+- Each child has its own unique method
+
+### 4. Polymorphism.java — Polymorphism
+- Method Overloading — same method name different parameters
+- Method Overriding — child class overrides parent method
+
+### 5. Abstraction.java — Abstraction
+- Abstract class Shape with Circle, Rectangle and Triangle
+- Each child implements calculateArea() differently
+- Demonstrates hiding complexity
 
 ## How to compile and run
 javac filename.java
@@ -25,5 +34,6 @@ java Main
 ## Concepts covered
 - Classes and Objects
 - Encapsulation
-- Getters and Setters
-- Arrays of Objects
+- Inheritance
+- Polymorphism
+- Abstraction
